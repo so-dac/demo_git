@@ -1,3 +1,3 @@
 ceci est un fichier txt pour tester git et github
 test modification depuis github
-test modification en locale
+test modification en local et ça marche bien !
